@@ -1,19 +1,15 @@
 <h1 align="center">Hi , I'm Tuan Nguyen (Eli)</h1>
-<h3 align="center">Welcome to my GitHub profile! I am a Ph.D. candidate in Computer Science at the University of Tennessee at Chattanooga, specializing in computer vision and federated learning. My research focuses on innovative solutions for transportation systems, including multi-camera vehicle tracking and federated learning techniques.
-</h3>
 
-
-Welcome to my GitHub profile! I am a Ph.D. candidate in Computer Science at the University of Tennessee at Chattanooga, specializing in computer vision and federated learning. My research focuses on innovative solutions for transportation systems, including multi-camera vehicle tracking and federated learning techniques.
+Welcome to my GitHub profile! I am a Ph.D. candidate in Computer Science at the University of Tennessee at Chattanooga, specializing in computer vision. My research focuses on innovative solutions for transportation systems, including object detection, multi-camera vehicle tracking, trajectory prediction.
 
 ## About Me
 
-I am passionate about advancing the field of computer vision and applying my expertise to real-world problems. My key interests include:
-- **Computer Vision**
+I am currently passionate about advancing the field of computer vision and applying my expertise to real-world problems. My key interests include:
 - **Federated Learning**
 - **Vision Language Models (VLM)**
 - **Vision Foundation Models (VFM)**
-- **Autonomous Systems**
 - **3D Scene Understanding**
+- **Autonomous Systems**
 
 ## Projects
 
@@ -34,8 +30,8 @@ Created an application for comprehensive traffic video analysis utilizing object
 
 ## Publications
 
-- **FLaMMOn: Federated Learning for Graph Language Model in Multi-Target Multi-Camera Tracking in Online Scenarios**
-  - ACML - Machine Learning Journal (2024) (Under review)
+<!-- - **FLaMMOn: Federated Learning for Graph Language Model in Multi-Target Multi-Camera Tracking in Online Scenarios**
+  - ACML - Machine Learning Journal (2024) (Under review) -->
 
 - **LaMMOn: Language Model Combined Graph Neural Network for Multi-Target Multi-Camera Tracking in Online Scenarios**
   - Machine Learning Journal (2024) (Under review)
@@ -51,10 +47,10 @@ Created an application for comprehensive traffic video analysis utilizing object
 
 ## Skills
 
-- **Programming Languages**: Python, C++, Java
-- **Frameworks and Libraries**: TensorFlow, PyTorch, OpenCV
+- **Programming Languages**: Python
+- **Frameworks and Libraries**: PyTorch, OpenCV, Flower
 - **Techniques and Models**: Federated Learning, Deep Learning, Machine Learning, Multi-Object Tracking
-- **Tools**: MATLAB, Git, Jupyter Notebook
+- **Tools**: Git, Jupyter Notebook
 
 ## Contact
 
