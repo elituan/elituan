@@ -1,4 +1,7 @@
-# Tuan Nguyen
+<h1 align="center">Hi , I'm Tuan Nguyen (Eli)</h1>
+<h3 align="center">Welcome to my GitHub profile! I am a Ph.D. candidate in Computer Science at the University of Tennessee at Chattanooga, specializing in computer vision and federated learning. My research focuses on innovative solutions for transportation systems, including multi-camera vehicle tracking and federated learning techniques.
+</h3>
+
 
 Welcome to my GitHub profile! I am a Ph.D. candidate in Computer Science at the University of Tennessee at Chattanooga, specializing in computer vision and federated learning. My research focuses on innovative solutions for transportation systems, including multi-camera vehicle tracking and federated learning techniques.
 
