@@ -55,7 +55,7 @@ Created an application for comprehensive traffic video analysis utilizing object
 ## Contact
 
 - **Email**: Xwz778@mocs.utc.edu
-- **LinkedIn**: [linkedin.com/in/eli-tuan/](https://linkedin.com/in/eli-tuan/)
+- **LinkedIn**: [linkedin.com/in/elituan/](https://linkedin.com/in/elituan/)
 - **Google Scholar**: [scholar.google.com/citations?user=mIMXTkUAAAAJ&hl=en](https://scholar.google.com/citations?user=mIMXTkUAAAAJ&hl=en)
 - **GitHub**
 : [github.com/elituan](https://github.com/elituan)
