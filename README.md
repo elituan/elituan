@@ -22,6 +22,9 @@ Developed and implemented real-time multi-camera vehicle tracking systems for va
 ### Federated Trajectory Prediction for VRU Safety
 Designed a federated learning-based trajectory prediction algorithm to detect potential near-crash scenarios and ensure the safety of Vulnerable Road Users (VRUs) like pedestrians, motorcyclists, and cyclists.
 
+### Federated Learning for Multi-Camera Vehicle Tracking 
+Developed a privacy-preserving federated learning approach for multi-camera vehicle tracking, enabling decentralized training on distributed datasets.
+
 ### Parking Lot Management Application
 Developed an application for real-time detection of available parking spaces using high-mounted cameras within parking lots, leveraging computer vision techniques to analyze camera footage.
 
