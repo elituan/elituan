@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Tuan Nguyen (Eli)</h1>
+<h1 align="center">Hi , I'm Tuan (Eli) Nguyen </h1>
 
 Welcome to my GitHub profile! I am a Ph.D. candidate in Computer Science at the University of Tennessee at Chattanooga, specializing in computer vision. My research focuses on vehicle tracking, federated learning, sensor fusion and trajectory prediction.
 
