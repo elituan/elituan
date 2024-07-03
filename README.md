@@ -37,7 +37,8 @@ Created an application for comprehensive traffic video analysis utilizing object
   - ACML - Machine Learning Journal (2024) (Under review) -->
 
 - **LaMMOn: Language Model Combined Graph Neural Network for Multi-Target Multi-Camera Tracking in Online Scenarios**
-  - Machine Learning Journal (2024) (Under review)
+  - Machine Learning Journal (2024) (Accepted)
+  - (This Journal is highly regarded, with a Q1 ranking and an Impact Factor 5.8 in Artificial Intelligence and Software)
 
 - **Smart Camera Parking System With Auto Parking Spot Detection**
   - Transportation Research Board (2024)
@@ -47,6 +48,7 @@ Created an application for comprehensive traffic video analysis utilizing object
 
 - **Multi-Vehicle Multi-Camera Tracking with Graph-Based Tracklet Features**
   - IEEE Transactions on Multimedia (2023)
+  - (This Journal is highly regarded, with a Q1 ranking and an Impact Factor 8.4  in Computer science and Technologies)
 
 ## Skills
 
