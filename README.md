@@ -31,9 +31,10 @@ Developed an application for real-time detection of available parking spaces usi
 ### Traffic Video Analysis Application
 Created an application for comprehensive traffic video analysis utilizing object segmentation, detection, and classification techniques to detect and classify various road users.
 
-## Publications
+## Publications and Preprints 
 
-<!-- - **FLaMMOn: Federated Learning for Graph Language Model in Multi-Target Multi-Camera Tracking in Online Scenarios**
+<!-- 
+- **FLaMMOn: Federated Learning for Graph Language Model in Multi-Target Multi-Camera Tracking in Online Scenarios**
   - ACML - Machine Learning Journal (2024) (Under review) -->
 
 - **LaMMOn: Language Model Combined Graph Neural Network for Multi-Target Multi-Camera Tracking in Online Scenarios**
